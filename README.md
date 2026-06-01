@@ -253,6 +253,12 @@ Recommended flow:
 ---
 
 
+# Full Technical Report
+
+Detailed per-module analysis, mathematical derivations, algorithm comparisons, cycle-count breakdowns, verification discussion, and complete FPGA implementation data are documented in:
+
+[`docs/FPU_Technical_Report.pdf`](docs/FPU_Technical_Report.pdf)
+
 ## Related Project
 
 This FPU is integrated into a complete 5-stage RV32IF pipelined processor with UVM verification:
